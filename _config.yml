@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+permalink: /:year/:month/:day/:title:output_ext
+collections:
+  common:
+    output: true
+    permalink: /:collection/:name
