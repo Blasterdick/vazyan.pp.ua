@@ -4,3 +4,4 @@ collections:
   common:
     output: true
     permalink: /:collection/:name
+markdown: kramdown
