@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 permalink: /:year/:month/:day/:title:output_ext
 markdown: kramdown
+favicon-url: favicon.webp
