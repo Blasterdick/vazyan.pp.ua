@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 permalink: /:year/:month/:day/:title:output_ext
 collections:
-  common:
+  2022:
     output: true
-    permalink: /:collection/:name
+    directory: /2022
 markdown: kramdown
