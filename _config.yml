@@ -3,5 +3,5 @@ permalink: /:year/:month/:day/:title:output_ext
 collections:
   2022:
     output: true
-    directory: /2022
+    directory: 2022
 markdown: kramdown
